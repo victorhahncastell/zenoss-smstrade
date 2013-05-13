@@ -24,11 +24,13 @@ Create a new user for this script in SMSEagle.
 2. Edit following lines in the script:
 
     SMSEAGLE_USER = "john"
-    SMSEAGLE_PASSWORD = "doe"
-    SMSEAGLE_IP = "192.168.0.101"
+    
+	SMSEAGLE_PASSWORD = "doe"
+    
+	SMSEAGLE_IP = "192.168.0.101"
 
 
-Save the script to the location: $ZENHOME/bin/zenoss_smseagle.py (where $ZENHOME is your Zenoss directory). Ensure that it's executable (chmod 755 zenoss_smseagle.py).
+	Save the script to the location: $ZENHOME/bin/zenoss_smseagle.py (where $ZENHOME is your Zenoss directory). Ensure that it's executable (chmod 755 zenoss_smseagle.py).
 
 
 3. Add a cell phone number to the "Pager" field of each Zenoss user account.
