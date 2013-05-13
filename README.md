@@ -18,7 +18,7 @@ Create a new user for this script in SMSEagle.
 
 #### ZENOSS SETUP
 
-1. Download latest version of the script zenoss_smseagle.py from: https://bitbucket.org/proximus/smseagle-zenoss
+1. Download latest version of the script *zenoss_smseagle.py* from: https://bitbucket.org/proximus/smseagle-zenoss
 
 
 2. Edit following lines in the script:
