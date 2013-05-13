@@ -18,7 +18,7 @@ Create a new user for this script in SMSEagle.
 
 #### ZENOSS SETUP
 
-1. Download latest version of Zenoss script from: https://bitbucket.org/proximus/smseagle-zenoss
+1. Download latest version of the script zenoss_smseagle.py from: https://bitbucket.org/proximus/smseagle-zenoss
 
 
 2. Edit following lines in the script:
@@ -45,6 +45,6 @@ Create a new user for this script in SMSEagle.
 shown in the Pager column of each user.
 
 
-6. If testing is successful (a SMS message is received at the cell phone) then create alerts and specify "page" as the action.
+6. If testing is successful (a SMS message is received at the cell phone) create alerts in Zenoss and specify "page" as the action for an alert.
 	
 
