@@ -6,6 +6,7 @@
 # Date : May 13 2013
 # Author : SMSEagle Team
 # Summary : This plugin sends ZenOss SMS alerts with SMSEagle hardware sms gateway
+# Copyright (c) 2013, SMSEagle www.smseagle.eu
 # License : BSD
 #
 # ============================= MORE INFO ======================================
